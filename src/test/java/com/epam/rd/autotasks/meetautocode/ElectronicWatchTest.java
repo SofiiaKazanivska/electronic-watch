@@ -58,6 +58,5 @@ class ElectronicWatchTest {
                 Arguments.of(70, "0:01:10"),
                 Arguments.of(71, "0:01:11"),
                 Arguments.of(3601, "1:00:01")
-        );
-    }
+        );    }
 }
